@@ -20,9 +20,8 @@ body {
   display: grid;
   place-items: center;
   width: 18%;
-  overflow: hidden;
   min-width: 170px;
-  height: 50vh;
+  height: auto;
 }
 
 .container * {
